@@ -1,0 +1,40 @@
+{
+  "summary": "Google follows almost everything you do online, including what you search for, where you go, and who you talk to. They use this huge pile of info to show you ads and build a detailed profile of your life.",
+  "risk_level": "High",
+  "risk_reason": "They track your activity on millions of other websites and apps, not just their own.",
+  "data_collection": [
+    "Your name, phone number, and payment info",
+    "Every search term and video you watch",
+    "Your exact location and where you live or work",
+    "The content of your emails, photos, and documents",
+    "Your voice and audio recordings",
+    "People you communicate with",
+    "Apps you use and how you use your phone"
+  ],
+  "third_party_sharing": [
+    "Advertisers (to show you targeted ads)",
+    "Companies that help them process info",
+    "Government or police if they ask for it legally",
+    "Your boss or school if you use their account"
+  ],
+  "tracking_cookies": [
+    "Tracks you across millions of non-Google websites",
+    "Identifies your specific computer or phone",
+    "Remembers what you do across different sessions"
+  ],
+  "user_rights": [
+    "You can see and delete your search history",
+    "You can download a copy of your info",
+    "You can tell them to stop showing personalized ads",
+    "You can delete your entire account"
+  ],
+  "suspicious_clauses": [
+    "They collect info about you from 'public sources' like newspapers or the web",
+    "They track you on other apps even if you use 'Incognito' mode",
+    "They can listen to your saved audio to 'improve' their systems"
+  ],
+  "key_risks": [
+    "Google creates a permanent, detailed diary of your private life that is very hard to fully escape if you use the internet."
+  ],
+  "_from_cache": false
+}

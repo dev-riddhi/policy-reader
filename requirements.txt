@@ -1,0 +1,13 @@
+# ── Core ───────────────────────────────────────────────────────────────────────
+streamlit
+
+# ── Scraping ───────────────────────────────────────────────────────────────────
+playwright
+beautifulsoup4
+lxml         # faster BS4 parser (optional but recommended)
+
+# ── Gemini AI ──────────────────────────────────────────────────────────────────
+google-genai
+
+# ── Utilities ──────────────────────────────────────────────────────────────────
+python-dotenv   # optional: load .env file for GEMINI_API_KEY
